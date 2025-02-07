@@ -5,12 +5,36 @@
       "PackagePath": "staticwebassets/WebApplication3.bundle.scp.css"
     },
     {
+      "Id": "/Users/andieclegg/RiderProjects/WebApplication3/WebApplication3/wwwroot/20230405_154241.jpg",
+      "PackagePath": "staticwebassets/20230405_154241.jpg"
+    },
+    {
+      "Id": "/Users/andieclegg/RiderProjects/WebApplication3/WebApplication3/wwwroot/IMG_1577.jpeg",
+      "PackagePath": "staticwebassets/IMG_1577.jpeg"
+    },
+    {
+      "Id": "/Users/andieclegg/RiderProjects/WebApplication3/WebApplication3/wwwroot/IMG_1942.jpeg",
+      "PackagePath": "staticwebassets/IMG_1942.jpeg"
+    },
+    {
+      "Id": "/Users/andieclegg/RiderProjects/WebApplication3/WebApplication3/wwwroot/IMG_5002.jpeg",
+      "PackagePath": "staticwebassets/IMG_5002.jpeg"
+    },
+    {
+      "Id": "/Users/andieclegg/RiderProjects/WebApplication3/WebApplication3/wwwroot/IMG_E4778.jpg",
+      "PackagePath": "staticwebassets/IMG_E4778.jpg"
+    },
+    {
       "Id": "/Users/andieclegg/RiderProjects/WebApplication3/WebApplication3/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/andieclegg/RiderProjects/WebApplication3/WebApplication3/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/andieclegg/RiderProjects/WebApplication3/WebApplication3/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
     },
     {
       "Id": "/Users/andieclegg/RiderProjects/WebApplication3/WebApplication3/wwwroot/js/site.js",
